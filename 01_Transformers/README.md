@@ -45,7 +45,3 @@ Epoch 9 train loss: 0.453
 Epoch 10: 100%|██████████| 2812/2812 [04:46<00:00,  9.80it/s]
 Epoch 10 train loss: 0.434
 ```
-
-# LICENCE
-
-MIT
